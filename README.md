@@ -1,1 +1,1 @@
-Upload dynamically files inside /public/uploads folder. 
+Upload files dynamically inside /public/uploads folder. 
